@@ -28,14 +28,17 @@ Python, Pandas, NumPy, SciPy, Seaborn, Matplotlib (Google Colab)
 - Employees working overtime leave at about 30%, compared to about 10% for those who do not. Overtime is strongly associated with attrition.
 - Age and monthly income show a moderate positive correlation (r ≈ 0.50).
 - No statistically significant difference in average income between male and female employees.
-- <fill: one line from Test 3>
+- - Average monthly income differs significantly across departments (one-way ANOVA, p < 0.05).
 
 ## Charts
 
-| Attrition vs Overtime | Age vs Monthly Income |
-|---|---|
-| ![Attrition vs Overtime](Screenshots/Attrition_vs_Overtime.png) | ![Age vs Monthly Income](Screenshots/Age_vs_MonthlyIncome.png) |
+### Attrition vs Overtime
+![Attrition vs Overtime](Screenshots/Attrition_vs_Overtime.png)
 
+### Age vs Monthly Income
+![Age vs Monthly Income](Screenshots/Age_vs_Monthlyincome.png)
+
+### Department vs Monthly Income
 ![Department vs Monthly Income](Screenshots/Department_vs_MonthlyIncome.png)
 
 ## Limitations
